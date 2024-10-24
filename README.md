@@ -35,16 +35,16 @@ Here are a couple of links with more detailed steps to help you get started usin
 Daggerfall Unity has the following system requirements. Please note that optional mods may substantially increase system requirements or cause game to become less stable.
 
 ### Minimum
-* Operating system: Windows, Linux, MacOS
-* Processor: Intel i3 (Skylake) equivalent
-* Graphics: DirectX 11 capable with 1GB video memory and up-to-date drivers
-* Memory: 2GB system RAM
+* Operating system: MacOS
+* Processor: M1
+* Graphics: Metal
+* Memory: 8GB system RAM
 
 ### Recommended
-* Operating system: Windows, Linux, MacOS
-* Processor: Intel i5 (Skylake) equivalent
-* Graphics: GTX 660 with 2GB video memory and up-to-date drivers
-* Memory: 4GB system RAM
+* Operating system: MacOS
+* Processor: M1 Pro
+* Graphics: Metal
+* Memory: 16GB system RAM
 
 # Featured Mods
 
